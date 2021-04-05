@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HWProject4.DataAccess/1.0.0": {
+        "dependencies": {
+          "HWProject4.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HWProject4.DataAccess.dll": {}
+        }
+      },
+      "HWProject4.Entities/1.0.0": {
+        "runtime": {
+          "HWProject4.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HWProject4.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HWProject4.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Udemy C#\HWProject4.Entities\bin\Debug\netcoreapp3.1\HWProject4.Entities.deps.json
+C:\Users\Lenovo\Desktop\Udemy C#\HWProject4.Entities\bin\Debug\netcoreapp3.1\HWProject4.Entities.dll
+C:\Users\Lenovo\Desktop\Udemy C#\HWProject4.Entities\bin\Debug\netcoreapp3.1\HWProject4.Entities.pdb
+C:\Users\Lenovo\Desktop\Udemy C#\HWProject4.Entities\obj\Debug\netcoreapp3.1\HWProject4.Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Udemy C#\HWProject4.Entities\obj\Debug\netcoreapp3.1\HWProject4.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Udemy C#\HWProject4.Entities\obj\Debug\netcoreapp3.1\HWProject4.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Udemy C#\HWProject4.Entities\obj\Debug\netcoreapp3.1\HWProject4.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Udemy C#\HWProject4.Entities\obj\Debug\netcoreapp3.1\HWProject4.Entities.dll
+C:\Users\Lenovo\Desktop\Udemy C#\HWProject4.Entities\obj\Debug\netcoreapp3.1\HWProject4.Entities.pdb
