@@ -24,7 +24,8 @@
       },
       "HWProject4.DataAccess/1.0.0": {
         "dependencies": {
-          "HWProject4.Entities": "1.0.0"
+          "HWProject4.Entities": "1.0.0",
+          "Project4.Entities": "1.0.0"
         },
         "runtime": {
           "HWProject4.DataAccess.dll": {}
@@ -33,6 +34,11 @@
       "HWProject4.Entities/1.0.0": {
         "runtime": {
           "HWProject4.Entities.dll": {}
+        }
+      },
+      "Project4.Entities/1.0.0": {
+        "runtime": {
+          "Project4.Entities.dll": {}
         }
       }
     }
@@ -54,6 +60,11 @@
       "sha512": ""
     },
     "HWProject4.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project4.Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

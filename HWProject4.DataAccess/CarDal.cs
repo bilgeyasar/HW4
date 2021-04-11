@@ -27,9 +27,29 @@ namespace HWProject4.DataAccess
             Console.WriteLine("Ado.Net ile eklendi.");
         }
 
+        public void Delete(RentACar entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<RentACar> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<RentACar> GetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<RentACar> GetRentACars()
         {
             return _cars;  //Sahte listemizi listelemek için return ettik.
+        }
+
+        public void Update(RentACar entity)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -5,8 +5,7 @@ using System.Text;
 
 namespace HWProject4.DataAccess
 {
-    public interface IRentACarDal : IEntityRentCarRepository<RentACar>
+   public interface ICustomerCarDal:IEntityRentCarRepository<CustomerCar>
     {
-       
     }
 }
