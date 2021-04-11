@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HWProject4.Entities
 {
-    public class RentACar
+    public class RentACar:IEntityCar
     {
         public int CarId { get; set; }
         public string CarName { get; set; }
